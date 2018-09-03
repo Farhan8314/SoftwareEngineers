@@ -1,21 +1,11 @@
 package loop;
 
 public class UseWhileLoop {
-
-    public UseWhileLoop() {
-    }
-
     public static void main(String[] args) {
-        while(true) {
-            System.out.println("I am....");
+        int num = 10;
+        while(num>0){
+            System.out.println(num);
+            num=num-2;
         }
     }
 }
-
-
-
-
-
-
-
-
