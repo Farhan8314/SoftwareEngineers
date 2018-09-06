@@ -31,7 +31,7 @@ public class Week {
                 System.out.println("Go to class");
                 break;
             case SUNDAY:
-                System.out.println("Go to class again");
+                System.out.println("Take midterm");
                 break;
             default:
                 System.out.println("Keep studying to become a tester");
