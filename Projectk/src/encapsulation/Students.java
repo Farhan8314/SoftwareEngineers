@@ -28,6 +28,6 @@ public String getStName() {
 private String stName;
 private int stID;
 private String dob;
-public String grade
+public String grade;
 // source generate getter and setter method
 }
