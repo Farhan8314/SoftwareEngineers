@@ -13,10 +13,10 @@ System.out.println(st1.getStName()+"" + st1.getStID()+ ""+ st1.getDob()+ ""+ st1
 	
 	
 Students st2 = new Students();
-st2.setStName("jay z");
+st2.setStName("Albert Camus");
 st2.setStID(101);
-st2.setDob("03-09-1978");
-st2.grade= "A";
+st2.setDob("09-07-1913");
+st2.grade= "C";
 	
 System.out.println(st2.getStName()+"" + st2.getStID()+ ""+ st2.getDob()+ ""+ st2.getGrade());
 	
